@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29411" started-at="2019-08-19T05:10:44Z" finished-at="2019-08-19T05:11:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29411" started-at="2019-08-19T05:10:44Z" finished-at="2019-08-19T05:11:13Z">
+      <class name="testnggg.TestDataa">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testnggg.TestDataa@2ac1fdc4]" name="beforeMethod" is-config="true" duration-ms="9816" started-at="2019-08-19T10:40:44Z" finished-at="2019-08-19T10:40:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testnggg.TestDataa@2ac1fdc4]" name="f" duration-ms="171" started-at="2019-08-19T10:40:54Z" data-provider="TestData1" finished-at="2019-08-19T10:40:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kishore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdefgh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testnggg.TestDataa@2ac1fdc4]" name="afterMethod" is-config="true" duration-ms="6" started-at="2019-08-19T10:40:54Z" finished-at="2019-08-19T10:40:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testnggg.TestDataa@2ac1fdc4]" name="beforeMethod" is-config="true" duration-ms="9421" started-at="2019-08-19T10:40:54Z" finished-at="2019-08-19T10:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testnggg.TestDataa@2ac1fdc4]" name="f" duration-ms="172" started-at="2019-08-19T10:41:03Z" data-provider="TestData1" finished-at="2019-08-19T10:41:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kishore1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdefgh123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testnggg.TestDataa@2ac1fdc4]" name="afterMethod" is-config="true" duration-ms="8" started-at="2019-08-19T10:41:03Z" finished-at="2019-08-19T10:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testnggg.TestDataa@2ac1fdc4]" name="beforeMethod" is-config="true" duration-ms="9578" started-at="2019-08-19T10:41:03Z" finished-at="2019-08-19T10:41:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testnggg.TestDataa@2ac1fdc4]" name="f" duration-ms="215" started-at="2019-08-19T10:41:13Z" data-provider="TestData1" finished-at="2019-08-19T10:41:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kishore2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdefgh456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testnggg.TestDataa@2ac1fdc4]" name="afterMethod" is-config="true" duration-ms="5" started-at="2019-08-19T10:41:13Z" finished-at="2019-08-19T10:41:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testnggg.TestDataa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,8 @@
+<suite name="Proj1">
+  <test name="Mod1">
+    <classes>
+      <class name="testnggg.Class1"/>
+      <class name="testnggg.Class2"/>
+    </classes>
+  </test> 
+</suite> 
